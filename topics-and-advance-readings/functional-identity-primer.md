@@ -195,7 +195,7 @@ capabilities, and proclivities.
 
 <div style="text-align:center;"><img src="./media/functionalidentity3.png" width=33% height=33%></div>
 
-> Raw data** are data which may or may not contain information relatable
+> **Raw data** are data which may or may not contain information relatable
 > to a person or thing.
 >
 > **Context** tells you why you can rely on any given identity
